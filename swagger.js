@@ -78,7 +78,7 @@ const options = {
         },
         servers: [
             {
-                url: "http://localhost:3000",
+                url: "https://dailypulse-rho.vercel.app/:3000",
                 description: "Development server"
             }
         ],
